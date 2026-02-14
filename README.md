@@ -1,16 +1,96 @@
-# React + Vite
+# 🌿 Vanrangini Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Vanrangini Page is a modern and responsive **React + Vite** web project
+designed as a landing page / showcase website.
 
-Currently, two official plugins are available:
+This project focuses on clean UI, fast performance, and simple
+deployment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+------------------------------------------------------------------------
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+-   ⚡ Built with React + Vite
+-   📱 Fully responsive design
+-   🎨 Clean and modern UI
+-   🛠️ ESLint configured
+-   📦 Optimized production build
 
-## Expanding the ESLint configuration
+------------------------------------------------------------------------
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧠 Tech Stack
+
+-   React
+-   Vite
+-   JavaScript (ES6+)
+-   HTML5
+-   CSS3
+
+------------------------------------------------------------------------
+
+## 📁 Project Structure
+
+vanrangini-page/ ├── public/\
+├── src/\
+├── index.html\
+├── package.json\
+├── vite.config.js\
+└── README.md
+
+------------------------------------------------------------------------
+
+## 💻 Getting Started
+
+### 1️⃣ Clone the Repository
+
+``` bash
+git clone https://github.com/jayasaiadabala/vanrangini-page.git
+cd vanrangini-page
+```
+
+### 2️⃣ Install Dependencies
+
+``` bash
+npm install
+```
+
+### 3️⃣ Run Development Server
+
+``` bash
+npm run dev
+```
+
+The app will run at: http://localhost:5173
+
+------------------------------------------------------------------------
+
+## 📦 Build for Production
+
+``` bash
+npm run build
+```
+
+Production-ready files will be generated in the `dist/` folder.
+
+------------------------------------------------------------------------
+
+## 🚀 Deployment
+
+You can deploy this project using:
+
+-   GitHub Pages
+-   Netlify
+-   Vercel
+
+------------------------------------------------------------------------
+
+## 👤 Author
+
+**Sai Adabala**\
+GitHub: https://github.com/jayasaiadabala
+
+------------------------------------------------------------------------
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
